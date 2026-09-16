@@ -1,0 +1,3 @@
+interface:
+  display_name: "Paper Format Template"
+  short_description: "Format Chinese or English research-paper DOCX files without rewriting content."
